@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working like freelancer<br>👯 Looking to collaborate/create big plataforms<br>🤝 Looking for new job or new ideas<br>🌱 Currently learning C#<br>💬 Work together<br>⚡ Speed and quality
+🔭 I’m currently working like Angular Dev and freelancer<br>👯 Looking to collaborate/create big plataforms<br>🤝 Looking for new job or new ideas<br>🌱 Currently learning C#<br>💬 Work together<br>⚡ Speed and quality
 
 
 ## 🌐 Socials:
